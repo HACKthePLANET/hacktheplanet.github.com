@@ -6,7 +6,11 @@ title: HackThePlanet
 
 ## Propose a Hacking Event or Challenge
 
-Submit a Pull Request with an event post in <a>asdf</a> and/or send email to <a href="mailto:hacktheplanet@lists.rackspace.com">hacktheplanet@lists.rackspace.com</a>.
+<ul class="unstyled">
+  <li>Submit a Pull Request with a <a href="https://github.com/HackThePlanet/hacktheplanet.github.com/tree/master/_posts">new event post</a>.</li>
+  <li><a href="http://github.com/hacktheplanet/hacktheplanet.github.com/issues">Issue a theme request</a>.</li>
+  <li>Email <a href="mailto:hacktheplanet@lists.rackspace.com">hacktheplanet@lists.rackspace.com</a>.</li>
+</ul>
 
 ## Monthly SF HackDays
 
@@ -18,8 +22,6 @@ Every <b>first Wednesday</b> of the month at
   <li>6pm: Start demos</li>
   <li>8pm: Get dinner and/or move to a local bar</li>
 </ul>
-
-Send theme requests to <a href="mailto:hacktheplanet@lists.rackspace.com">hacktheplanet@lists.rackspace.com</a>
 
 ## Events
 
