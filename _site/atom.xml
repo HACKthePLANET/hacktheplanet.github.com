@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>HackThePlanet</title>
+ <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
+ <link href="http://hacktheplanet.github.com"/>
+ <updated>2012-02-05T22:13:55-08:00</updated>
+ <id>http://hacktheplanet.github.com</id>
+ <author>
+   <name>Razor and Blade</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Node Js Hackday</title>
+   <link href="http://hacktheplanet.github.com/hackday/2012/03/07/node-js-hackday"/>
+   <updated>2012-03-07T00:00:00-08:00</updated>
+   <id>hhttp://hacktheplanet.github.com/hackday/2012/03/07/node-js-hackday</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Twisted Python Hackday</title>
+   <link href="http://hacktheplanet.github.com/hackday/2012/02/01/twisted-python-hackday"/>
+   <updated>2012-02-01T00:00:00-08:00</updated>
+   <id>hhttp://hacktheplanet.github.com/hackday/2012/02/01/twisted-python-hackday</id>
+   <content type="html">&lt;p&gt;Come hack on Twisted and Twisted projects at Rackspace&amp;#8217;s new San Francisco office. Bring ideas or find a team. This Hackday will feature Jean-Paul Calderone @jpcalderone from Twisted Matrix Labs http://twistedmatrix.com/trac/&lt;/p&gt;
+
+&lt;p&gt;Doors open at 9:00am, demos at 9pm. Hack all day, or come hang out (7pm) and watch demos (9pm). Food, beer and skeeball provided. See you there!&lt;/p&gt;
+
+&lt;p&gt;Rackspace San Francisco 620 Folsom Street Suite 100 (Ground Floor)&lt;/p&gt;
+
+&lt;p&gt;Some ideas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;IRC bots&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;REST interface for a python library (to make it accessible to other languages)&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;libuv reactor&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;find blocking code better, eg monkey patch sql calls in twisted&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;fix the bug so that the glade reactor gui is back &amp;#8220;twistd &amp;#8211;reactor debug-gui -n web&amp;#8221;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;a href='http://www.eventbrite.com/event/2777737287'&gt;Eventbrite&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;a href='http://www.meetup.com/software/events/49921412/'&gt;Meetup | Bay Area Software Engineers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
+ 
+ 
+</feed>
