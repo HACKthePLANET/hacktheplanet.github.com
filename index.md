@@ -7,7 +7,7 @@ title: HackThePlanet
 ## Propose a Hacking Event or Challenge
 
 <ul class="unstyled">
-  <li>Submit a Pull Request with a <a href="https://github.com/HackThePlanet/hacktheplanet.github.com/tree/master/_posts">new event post</a>.</li>
+  <li>Submit a <a href="https://github.com/HackThePlanet/hacktheplanet.github.com/tree/master/_posts">new post</a> Pull Request.</li>
   <li><a href="http://github.com/hacktheplanet/hacktheplanet.github.com/issues">Issue a theme request</a>.</li>
   <li>Email <a href="mailto:hacktheplanet@lists.rackspace.com">hacktheplanet@lists.rackspace.com</a>.</li>
 </ul>
@@ -20,10 +20,10 @@ Every <b>first Wednesday</b> of the month at
 <ul class="unstyled">
   <li>9am: Start hacking</li>
   <li>6pm: Start demos</li>
-  <li>8pm: Get dinner and/or move to a local bar</li>
+  <li>8pm: Move to a local bar</li>
 </ul>
 
-## Events
+## Events and Challenges
 
 <ul class="posts">
   {% for post in site.posts %}
