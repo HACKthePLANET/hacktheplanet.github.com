@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Home
-tagline: Ping
+tagline: 
 author :
   name : Razor and Blade
   email : 

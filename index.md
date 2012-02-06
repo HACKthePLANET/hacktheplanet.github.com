@@ -1,6 +1,7 @@
 ---
 layout: page
 title: HackThePlanet
+tagline: A place to share hacking events and challenges
 ---
 {% include JB/setup %}
 
