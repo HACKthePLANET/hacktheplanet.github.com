@@ -7,7 +7,33 @@ tagline:
 
 ## Code
 
-Collaborate on hacks [here. Click for code!](https://github.com/HackThePlanet )
+Collaborate on hacks [here](https://github.com/HackThePlanet ).
+
+<br />
+
+<div class="row">
+  <div class="span1"><p></p></div>
+
+  <div class="span4">
+    <p><b>Twisted-Hang</b></p>
+    <p>Figure out if the main thread is hanging, and if so, why.</p>
+    <p><a href="https://github.com/HackThePlanet/twisted_hang" class="btn btn-primary">More &raquo;</a></p>
+  </div>
+
+  <div class="span4">
+    <p><b>AMP Repl</b></p>
+    <p>Terminal-based REPL to interact with AMP</p>
+    <p><a href="https://code.launchpad.net/~exarkun/+junk/amp-repl" class="btn btn-primary">More &raquo;</a></p>
+  </div>
+
+  <div class="span4">
+    <p><b>Slogger</b></p>
+    <p>slog through your irc logs and toss 'em into elastic search</p>
+    <p><a href="https://github.com/morgabra/slogger" class="btn btn-primary">More &raquo;</a></p>
+  </div>
+</div>
+
+<br />
 
 ## Events and Challenges
 
