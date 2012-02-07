@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-07T00:58:07-08:00</updated>
+ <updated>2012-02-07T01:42:29-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -67,6 +67,8 @@
 &lt;li&gt;&lt;a href='http://nodejshackday.eventbrite.com/'&gt;Eventbrite&lt;/a&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;a href=''&gt;Meetup | Bay Area Software Engineers&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.meetup.com/jsmeetup/events/51361712/'&gt;Meetup | SFJS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
  </entry>
  

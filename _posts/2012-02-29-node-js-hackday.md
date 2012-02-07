@@ -55,3 +55,5 @@ Cross Posts:
 
 - [Eventbrite](http://nodejshackday.eventbrite.com/ )
 - [Meetup | Bay Area Software Engineers]( )
+- [Meetup | SFJS](http://www.meetup.com/jsmeetup/events/51361712/ )
+

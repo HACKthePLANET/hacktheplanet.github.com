@@ -7,7 +7,7 @@ tagline:
 
 ## Code
 
-Collaborate on hacks [here](https://github.com/HackThePlanet )
+Collaborate on hacks [here. Click for code!](https://github.com/HackThePlanet )
 
 ## Events and Challenges
 
