@@ -9,11 +9,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Home
+title : Hack the Planet
 tagline: 
 author :
   name : Razor and Blade
-  email : 
+  email : hacktheplanet@lists.rackspace.com
   github : hacktheplanet
   twitter : 
   feedburner : 

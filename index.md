@@ -1,7 +1,7 @@
 ---
 layout: page
-title: HackThePlanet
-tagline: master everything
+title:
+tagline: 
 ---
 {% include JB/setup %}
 

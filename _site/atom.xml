@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Home</title>
+ <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-06T17:38:17-08:00</updated>
+ <updated>2012-02-06T23:26:38-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
-   <email></email>
+   <email>hacktheplanet@lists.rackspace.com</email>
  </author>
 
  
@@ -18,12 +18,10 @@
    <updated>2012-02-29T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/02/29/node-js-hackday</id>
    <content type="html">&lt;p&gt;Come hack on projects using &lt;a href='http://nodejs.org/'&gt;node.js&lt;/a&gt; at Rackspace&amp;#8217;s new San Francisco office.&lt;/p&gt;
-
-&lt;p&gt;29. February, 2012&lt;/p&gt;
-&lt;ul class='unstyled'&gt;
-  &lt;li&gt;9am: Start Hacking&lt;/li&gt;
-  &lt;li&gt;6pm: Start Demos&lt;/li&gt;
-  &lt;li&gt;8pm: Move to a local bar&lt;/li&gt;
+&lt;b&gt;29. February, 2012&lt;/b&gt;&lt;ul class='unstyled'&gt;
+  &lt;li&gt;&lt;b&gt;9am&lt;/b&gt;: Start Hacking&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;6pm&lt;/b&gt;: Start Demos&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;8pm&lt;/b&gt;: Move to a local bar&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Hack all day, or come watch the demos and hang out with us afterwards.&lt;/p&gt;
 
@@ -31,7 +29,7 @@
 
 &lt;p&gt;See you there!&lt;/p&gt;
 &lt;ul class='unstyled'&gt;
-  &lt;li&gt;[Rackspace San Francisco][map]&lt;/li&gt;
+  &lt;li&gt;&lt;a href='http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&amp;hl=de&amp;sll=37.0625,-95.677068&amp;sspn=48.77566,92.724609&amp;oq=620+Folsom+S&amp;hnear=620+Folsom+St,+San+Francisco,+California+94105&amp;t=m&amp;z=16'&gt;Rackspace San Francisco&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;620 Folsom Street&lt;/li&gt;
   &lt;li&gt;Suite 100 (Ground Floor)&lt;/li&gt;
 &lt;/ul&gt;
@@ -74,7 +72,7 @@
    <updated>2012-02-01T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/02/01/twisted-python-hackday</id>
    <content type="html">&lt;hr /&gt;
-&lt;p&gt;Successful first public Rackspace SF Hakday! Around 35 hackers showed up, and followed with some sweet demos, listed &lt;a href='https://github.com/HackThePlanet/TwistedPython-HackDay'&gt;here&lt;/a&gt;. &lt;hr /&gt;&lt;/p&gt;
+&lt;p&gt;Successful first public Rackspace SF Hackday! Around 35 hackers showed up and created some sweet demos, listed &lt;a href='https://github.com/HackThePlanet/TwistedPython-HackDay'&gt;here&lt;/a&gt;. &lt;hr /&gt;&lt;/p&gt;
 
 &lt;p&gt;Come hack on Twisted and Twisted projects at Rackspace&amp;#8217;s new San Francisco office. Bring ideas or find a team. This Hackday will feature Jean-Paul Calderone &lt;a href='http://twitter.com/jpcalderone'&gt;@jpcalderone&lt;/a&gt; from &lt;a href='http://twistedmatrix.com/trac/'&gt;Twisted Matrix Labs&lt;/a&gt;&lt;/p&gt;
 
@@ -85,33 +83,23 @@
 &lt;p&gt;Some ideas:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;IRC bots&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;IRC bots&lt;/li&gt;
 
-&lt;li&gt;
-&lt;p&gt;REST interface for a python library (to make it accessible to other languages)&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;REST interface for a python library (to make it accessible to other languages)&lt;/li&gt;
 
-&lt;li&gt;
-&lt;p&gt;libuv reactor&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;libuv reactor&lt;/li&gt;
 
-&lt;li&gt;
-&lt;p&gt;find blocking code better, eg monkey patch sql calls in twisted&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;find blocking code better, eg monkey patch sql calls in twisted&lt;/li&gt;
 
-&lt;li&gt;
-&lt;p&gt;fix the bug so that the glade reactor gui is back &amp;#8220;twistd &amp;#8211;reactor debug-gui -n web&amp;#8221;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;fix the bug so that the glade reactor gui is back &amp;#8220;twistd &amp;#8211;reactor debug-gui -n web&amp;#8221;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;li&gt;
-&lt;p&gt;&lt;a href='http://www.eventbrite.com/event/2777737287'&gt;Eventbrite&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;p&gt;Cross posts:&lt;/p&gt;
 
-&lt;li&gt;
-&lt;p&gt;&lt;a href='http://www.meetup.com/software/events/49921412/'&gt;Meetup | Bay Area Software Engineers&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://www.eventbrite.com/event/2777737287'&gt;Eventbrite&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.meetup.com/software/events/49921412/'&gt;Meetup | Bay Area Software Engineers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
  </entry>
  

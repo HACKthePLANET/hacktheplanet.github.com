@@ -6,8 +6,8 @@ tags : [twisted, python, rackspace, sf]
 {% include JB/setup %}
 
 <hr>
-Successful first public Rackspace SF Hakday! Around 35 hackers showed
-up, and followed with some sweet demos, listed [here][here].
+Successful first public Rackspace SF Hackday! Around 35 hackers showed
+up and created some sweet demos, listed [here][here].
 <hr>
 
 [here]: https://github.com/HackThePlanet/TwistedPython-HackDay
@@ -35,6 +35,8 @@ Some ideas:
 - libuv reactor
 - find blocking code better, eg monkey patch sql calls in twisted
 - fix the bug so that the glade reactor gui is back "twistd --reactor debug-gui -n web"
+
+Cross posts:
 
 - [Eventbrite](http://www.eventbrite.com/event/2777737287)
 - [Meetup | Bay Area Software Engineers](http://www.meetup.com/software/events/49921412/)
