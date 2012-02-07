@@ -52,6 +52,8 @@ Food, beer and skeeball provided. Bring ideas or find a team.
 ## Register
 
 - [Eventbrite](http://nodejshackday.eventbrite.com/ )
+
+<!--
 - [Meetup | Bay Area Software Engineers]( )
 - [Meetup | SFJS](http://www.meetup.com/jsmeetup/events/51361712/ )
-
+-->
