@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-07T02:18:16-08:00</updated>
+ <updated>2012-02-07T02:49:34-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -17,23 +17,24 @@
    <link href="http://hacktheplanet.github.com/hackday/2012/02/29/node-js-hackday"/>
    <updated>2012-02-29T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/02/29/node-js-hackday</id>
-   <content type="html">&lt;p&gt;Come hack on projects using &lt;a href='http://nodejs.org/'&gt;node.js&lt;/a&gt; at Rackspace&amp;#8217;s new San Francisco office.&lt;/p&gt;
-&lt;b&gt;29. February, 2012&lt;/b&gt;&lt;ul class='unstyled'&gt;
+   <content type="html">&lt;div class='center alert'&gt;Come hack on projects using &lt;a href='http://nodejs.org/'&gt;node.js&lt;/a&gt; at Rackspace's new San Francisco office.&lt;/div&gt;
+&lt;h2 id='29_february_2012'&gt;29. February, 2012&lt;/h2&gt;
+
+&lt;p&gt;Hack all day, or come watch the demos and hang out with us afterwards.&lt;/p&gt;
+&lt;ul class='unstyled'&gt;
   &lt;li&gt;&lt;b&gt;9am&lt;/b&gt;: Start Hacking&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;6pm&lt;/b&gt;: Start Demos&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;8pm&lt;/b&gt;: Move to a local bar&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Hack all day, or come watch the demos and hang out with us afterwards.&lt;/p&gt;
-
 &lt;p&gt;Food, beer and skeeball provided. Bring ideas or find a team.&lt;/p&gt;
 
-&lt;p&gt;See you there!&lt;/p&gt;
+&lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
 &lt;ul class='unstyled'&gt;
   &lt;li&gt;&lt;a href='http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&amp;hl=de&amp;sll=37.0625,-95.677068&amp;sspn=48.77566,92.724609&amp;oq=620+Folsom+S&amp;hnear=620+Folsom+St,+San+Francisco,+California+94105&amp;t=m&amp;z=16'&gt;Rackspace San Francisco&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;620 Folsom Street&lt;/li&gt;
   &lt;li&gt;Suite 100 (Ground Floor)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Ideas:&lt;/p&gt;
+&lt;h2 id='some_ideas'&gt;Some ideas&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Developer &lt;a href='https://github.com/hacktheplanet/developer-stats'&gt;stats site&lt;/a&gt;; turn this into a game a la &lt;a href='http://twistedmatrix.com/highscores/'&gt;Twisted Highscores&lt;/a&gt;&lt;/li&gt;
@@ -47,7 +48,7 @@
 &lt;li&gt;Web interface for remote terminal a la &lt;a href='https://github.com/chjj/tty.js'&gt;tty.js&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Useful tools:&lt;/p&gt;
+&lt;h2 id='useful_tools'&gt;Useful tools&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href='http://nodejs.org/'&gt;nodejs&lt;/a&gt;&lt;/li&gt;
@@ -61,7 +62,7 @@
 &lt;li&gt;&lt;a href='http://twitter.github.com/bootstrap/'&gt;bootstrap&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Cross Posts:&lt;/p&gt;
+&lt;h2 id='register'&gt;Register&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href='http://nodejshackday.eventbrite.com/'&gt;Eventbrite&lt;/a&gt;&lt;/li&gt;
@@ -77,9 +78,10 @@
    <link href="http://hacktheplanet.github.com/hackday/2012/02/01/twisted-python-hackday"/>
    <updated>2012-02-01T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/02/01/twisted-python-hackday</id>
-   <content type="html">&lt;hr /&gt;
-&lt;p&gt;Successful first public Rackspace SF Hackday! Around 35 hackers showed up and created some sweet demos, listed &lt;a href='https://github.com/HackThePlanet/TwistedPython-HackDay'&gt;here&lt;/a&gt;. &lt;hr /&gt;&lt;/p&gt;
-
+   <content type="html">&lt;div class='alert alert-success center'&gt;
+Successful first public Rackspace SF Hackday! Around 35 hackers showed
+up and created some &lt;a href='https://github.com/HackThePlanet/TwistedPython-HackDay'&gt;sweet demos&lt;/a&gt;.
+&lt;/div&gt;
 &lt;p&gt;Come hack on Twisted and Twisted projects at Rackspace&amp;#8217;s new San Francisco office. Bring ideas or find a team. This Hackday will feature Jean-Paul Calderone &lt;a href='http://twitter.com/jpcalderone'&gt;@jpcalderone&lt;/a&gt; from &lt;a href='http://twistedmatrix.com/trac/'&gt;Twisted Matrix Labs&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Doors open at 9:00am, demos at 9pm. Hack all day, or come hang out (7pm) and watch demos (9pm). Food, beer and skeeball provided. See you there!&lt;/p&gt;

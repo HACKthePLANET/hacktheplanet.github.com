@@ -5,10 +5,11 @@ tags : [node.js, javascript, rackspace, sf]
 ---
 {% include JB/setup %}
 
-Come hack on projects using [node.js][nodejs] at Rackspace's new San Francisco office. 
+<div class="center alert">Come hack on projects using <a href="http://nodejs.org/">node.js</a> at Rackspace's new San Francisco office.</div>
 
+## 29. February, 2012
 
-<b>29. February, 2012</b>
+Hack all day, or come watch the demos and hang out with us afterwards. 
 
 <ul class="unstyled">
   <li><b>9am</b>: Start Hacking</li>
@@ -16,11 +17,9 @@ Come hack on projects using [node.js][nodejs] at Rackspace's new San Francisco o
   <li><b>8pm</b>: Move to a local bar</li>
 </ul>
 
-Hack all day, or come watch the demos and hang out with us afterwards. 
-
 Food, beer and skeeball provided. Bring ideas or find a team.
 
-See you there!
+## See you there!
 
 <ul class="unstyled">
   <li><a href="http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&hl=de&sll=37.0625,-95.677068&sspn=48.77566,92.724609&oq=620+Folsom+S&hnear=620+Folsom+St,+San+Francisco,+California+94105&t=m&z=16">Rackspace San Francisco</a></li>
@@ -28,7 +27,7 @@ See you there!
   <li>Suite 100 (Ground Floor)</li>
 </ul>
 
-Ideas:
+## Some ideas
 
 - Developer [stats site][developer-stats]; turn this into a game a la [Twisted Highscores][highscores]
 - IRC Bots that integrate with build, deployment, tracking tools
@@ -36,14 +35,13 @@ Ideas:
 - REST interface for cron jobs a la [cron.io][cronio]
 - Web interface for remote terminal a la [tty.js][ttyjs]
 
-[nodejs]: http://nodejs.org/
 [developer-stats]: https://github.com/hacktheplanet/developer-stats
 [highscores]: http://twistedmatrix.com/highscores/
 [lcrest]: https://github.com/Kami/libcloud.rest
 [cronio]: http://cron.io/
 [ttyjs]: https://github.com/chjj/tty.js
 
-Useful tools:
+## Useful tools
 
 - [nodejs](http://nodejs.org/ )
 - [async](https://github.com/caolan/async )
@@ -51,7 +49,7 @@ Useful tools:
 - [jade](http://jade-lang.com/ )
 - [bootstrap](http://twitter.github.com/bootstrap/ )
 
-Cross Posts:
+## Register
 
 - [Eventbrite](http://nodejshackday.eventbrite.com/ )
 - [Meetup | Bay Area Software Engineers]( )
