@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-07T00:44:55-08:00</updated>
+ <updated>2012-02-07T00:58:07-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -40,7 +40,11 @@
 
 &lt;li&gt;IRC Bots that integrate with build, deployment, tracking tools&lt;/li&gt;
 
-&lt;li&gt;REST interfaces for language-specific libraries&lt;/li&gt;
+&lt;li&gt;REST interfaces for language-specific libraries a la &lt;a href='https://github.com/Kami/libcloud.rest'&gt;libcloud.rest&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;REST interface for cron jobs a la &lt;a href='http://cron.io/'&gt;cron.io&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Web interface for remote terminal a la &lt;a href='https://github.com/chjj/tty.js'&gt;tty.js&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Useful tools:&lt;/p&gt;

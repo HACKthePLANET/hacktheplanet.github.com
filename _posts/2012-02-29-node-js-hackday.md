@@ -32,11 +32,16 @@ Ideas:
 
 - Developer [stats site][developer-stats]; turn this into a game a la [Twisted Highscores][highscores]
 - IRC Bots that integrate with build, deployment, tracking tools
-- REST interfaces for language-specific libraries
+- REST interfaces for language-specific libraries a la [libcloud.rest][lcrest]
+- REST interface for cron jobs a la [cron.io][cronio]
+- Web interface for remote terminal a la [tty.js][ttyjs]
 
 [nodejs]: http://nodejs.org/
 [developer-stats]: https://github.com/hacktheplanet/developer-stats
 [highscores]: http://twistedmatrix.com/highscores/
+[lcrest]: https://github.com/Kami/libcloud.rest
+[cronio]: http://cron.io/
+[ttyjs]: https://github.com/chjj/tty.js
 
 Useful tools:
 
