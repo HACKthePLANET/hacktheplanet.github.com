@@ -5,16 +5,17 @@ tags : [node.js, javascript, rackspace, sf]
 ---
 {% include JB/setup %}
 
-<div class="center alert">Come hack on projects using <a href="http://nodejs.org/">node.js</a> at Rackspace's new San Francisco office.</div>
+<div class="center alert"><b>Come hack on projects using <a href="http://nodejs.org/">node.js</a> at Rackspace's new San Francisco office.</b></div>
 
 ## 29. February, 2012
 
-Hack all day, or come watch the demos and hang out with us afterwards. 
+Hack all day, or come watch the demos and hang out afterwards. Brought to you by developers at <a href="http://rackspace.com">Rackspace</a> and <a href="http://nodejitsu.com">Nodejitsu</a>.
 
 <ul class="unstyled">
-  <li><b>9am</b>: Start Hacking</li>
-  <li><b>6pm</b>: Start Demos</li>
-  <li><b>8pm</b>: Move to a local bar</li>
+  <li><b>9</b>am: Start Hacking</li>
+  <li><b>6</b>pm: Tech Talk by <a href="https://github.com/SubStack">James Halliday</a> from <a href="http://stackvm.com/">StackVM</a></li>
+  <li><b>7</b>pm: Demos</li>
+  <li><b>8</b>pm: Move to a local bar</li>
 </ul>
 
 Food, beer and skeeball provided. Bring ideas or find a team.
