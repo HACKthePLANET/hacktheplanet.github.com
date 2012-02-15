@@ -4,13 +4,88 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-14T18:04:22-08:00</updated>
+ <updated>2012-02-15T11:34:12-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
    <email>hacktheplanet@lists.rackspace.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Intern Hackday</title>
+   <link href="http://hacktheplanet.github.com/hackday/2012/03/03/intern-hackday"/>
+   <updated>2012-03-03T00:00:00-08:00</updated>
+   <id>hhttp://hacktheplanet.github.com/hackday/2012/03/03/intern-hackday</id>
+   <content type="html">&lt;div class='center alert'&gt;&lt;b&gt;Hack with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; employees and get a sweet summer internship in San Francisco&lt;/b&gt;&lt;/div&gt;
+&lt;h2 id='3_march_2012'&gt;3. March, 2012&lt;/h2&gt;
+&lt;ul class='unstyled'&gt;
+  &lt;li&gt;&lt;b&gt;10.00&lt;/b&gt;am: Start Hacking&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;5.30&lt;/b&gt;pm: Rackspace Tech Talk and Q&amp;A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;6.00&lt;/b&gt;pm: Demos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Food, drinks and skeeball provided.&lt;/p&gt;
+
+&lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
+&lt;ul class='unstyled'&gt;
+  &lt;li&gt;&lt;a href='http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&amp;hl=de&amp;sll=37.0625,-95.677068&amp;sspn=48.77566,92.724609&amp;oq=620+Folsom+S&amp;hnear=620+Folsom+St,+San+Francisco,+California+94105&amp;t=m&amp;z=16'&gt;Rackspace San Francisco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;620 Folsom Street&lt;/li&gt;
+  &lt;li&gt;Suite 100 (Ground Floor)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id='some_ideas'&gt;Some ideas&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Async service that tracks developer metrics (eg, &lt;a href='https://github.com/hacktheplanet/developer-stats'&gt;Github developer stats&lt;/a&gt; or &lt;a href='http://twistedmatrix.com/highscores/'&gt;Twisted Highscores&lt;/a&gt;)&lt;/li&gt;
+
+&lt;li&gt;IRC/chat bot to read and post tweets (or interact with some API)&lt;/li&gt;
+
+&lt;li&gt;Hooking via &lt;a href='https://github.com/hookio/hook.io'&gt;Hook.io&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.webhooks.org/'&gt;Webhook&lt;/a&gt; handler&lt;/li&gt;
+
+&lt;li&gt;Something with or like &lt;a href='http://code.google.com/p/gerrit/'&gt;Gerrit&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Patch an open source library with a small feature or bug fix&lt;/li&gt;
+
+&lt;li&gt;Write or use a javsacript &lt;a href='http://openstack.org/'&gt;OpenStack&lt;/a&gt; API&lt;/li&gt;
+
+&lt;li&gt;Implement a new protocol for &lt;a href='http://keystone.openstack.org/'&gt;Keystone&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;REST interfaces for language-specific libraries a la &lt;a href='https://github.com/Kami/libcloud.rest'&gt;libcloud.rest&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;REST interface for cron jobs a la &lt;a href='http://cron.io/'&gt;cron.io&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Web interface for remote terminal a la &lt;a href='https://github.com/chjj/tty.js'&gt;tty.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='more_tools'&gt;More tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://openstack.org/'&gt;openstack&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://twistedmatrix.com/trac/'&gt;twisted python&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://libcloud.apache.org/'&gt;libcloud&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://nodejs.org/'&gt;nodejs&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='https://github.com/caolan/async'&gt;async&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://expressjs.com/'&gt;express&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://jade-lang.com/'&gt;jade&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://twitter.github.com/bootstrap/'&gt;bootstrap&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='https://www.djangoproject.com/'&gt;django&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='register'&gt;Register&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://internhackday.eventbrite.com/'&gt;Eventbrite&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
  
  <entry>
    <title>Node Js Hackday</title>
