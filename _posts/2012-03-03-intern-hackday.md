@@ -5,7 +5,9 @@ tags : [interns, java, c, c++, node.js, javascript, rackspace, sf]
 ---
 {% include JB/setup %}
 
-<div class="center alert"><b>Hack with <a href="http://rackspace.com">Rackspace</a> employees and get a sweet summer internship in San Francisco</b></div>
+<div class="topinfo center alert"><b>Hack with <a href="http://rackspace.com">Rackspace</a> employees and get a sweet summer internship in San Francisco</b></div>
+
+<img src="{{ ASSET_PATH }}twitter/img/rax_sfo.png">
 
 ## 3. March, 2012
 
@@ -34,7 +36,7 @@ Food, drinks and skeeball provided.
 - Something with or like [Gerrit][Gerrit]
 - Patch an open source library with a small feature or bug fix
 - Write or use a javsacript [OpenStack][OpenStack] API
-- Implement a new protocol for [Keystone][Keystone]
+- [Keystone][Keystone] signed tokens, or implement a new protocol for [Keystone][Keystone]
 - REST interfaces for language-specific libraries a la [libcloud.rest][lcrest]
 - REST interface for cron jobs a la [cron.io][cronio]
 - Web interface for remote terminal a la [tty.js][ttyjs]

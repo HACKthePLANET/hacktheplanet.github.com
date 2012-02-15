@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-15T11:34:12-08:00</updated>
+ <updated>2012-02-15T11:47:54-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -17,7 +17,7 @@
    <link href="http://hacktheplanet.github.com/hackday/2012/03/03/intern-hackday"/>
    <updated>2012-03-03T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/03/03/intern-hackday</id>
-   <content type="html">&lt;div class='center alert'&gt;&lt;b&gt;Hack with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; employees and get a sweet summer internship in San Francisco&lt;/b&gt;&lt;/div&gt;
+   <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; employees and get a sweet summer internship in San Francisco&lt;/b&gt;&lt;/div&gt;&lt;img src='/assets/themes/twitter/img/rax_sfo.png' /&gt;
 &lt;h2 id='3_march_2012'&gt;3. March, 2012&lt;/h2&gt;
 &lt;ul class='unstyled'&gt;
   &lt;li&gt;&lt;b&gt;10.00&lt;/b&gt;am: Start Hacking&lt;/li&gt;
@@ -49,7 +49,7 @@
 
 &lt;li&gt;Write or use a javsacript &lt;a href='http://openstack.org/'&gt;OpenStack&lt;/a&gt; API&lt;/li&gt;
 
-&lt;li&gt;Implement a new protocol for &lt;a href='http://keystone.openstack.org/'&gt;Keystone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://keystone.openstack.org/'&gt;Keystone&lt;/a&gt; signed tokens, or implement a new protocol for &lt;a href='http://keystone.openstack.org/'&gt;Keystone&lt;/a&gt;&lt;/li&gt;
 
 &lt;li&gt;REST interfaces for language-specific libraries a la &lt;a href='https://github.com/Kami/libcloud.rest'&gt;libcloud.rest&lt;/a&gt;&lt;/li&gt;
 
@@ -92,7 +92,7 @@
    <link href="http://hacktheplanet.github.com/hackday/2012/02/29/node-js-hackday"/>
    <updated>2012-02-29T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/02/29/node-js-hackday</id>
-   <content type="html">&lt;div class='center alert'&gt;&lt;b&gt;Come hack on projects using &lt;a href='http://nodejs.org/'&gt;node.js&lt;/a&gt; at Rackspace's new San Francisco office.&lt;/b&gt;&lt;/div&gt;
+   <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack on projects using &lt;a href='http://nodejs.org/'&gt;node.js&lt;/a&gt; at Rackspace's new San Francisco office.&lt;/b&gt;&lt;/div&gt;
 &lt;h2 id='29_february_2012'&gt;29. February, 2012&lt;/h2&gt;
 
 &lt;p&gt;Hack all day, or come watch the demos and hang out afterwards. Brought to you by developers at &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; and &lt;a href='http://nodejitsu.com'&gt;Nodejitsu&lt;/a&gt;.&lt;/p&gt;
@@ -158,8 +158,8 @@
    <link href="http://hacktheplanet.github.com/hackday/2012/02/01/twisted-python-hackday"/>
    <updated>2012-02-01T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/02/01/twisted-python-hackday</id>
-   <content type="html">&lt;div class='alert alert-success center'&gt;
-Successful first public Rackspace SF Hackday! Around 35 hackers showed
+   <content type="html">&lt;div class='topinfo alert alert-success center'&gt;
+Successful first public Rackspace SF Hackday! &lt;br /&gt;Around 35 hackers showed
 up and created some &lt;a href='https://github.com/HackThePlanet/TwistedPython-HackDay'&gt;sweet demos&lt;/a&gt;.
 &lt;/div&gt;
 &lt;p&gt;Come hack on Twisted and Twisted projects at Rackspace&amp;#8217;s new San Francisco office. Bring ideas or find a team. This Hackday will feature Jean-Paul Calderone &lt;a href='http://twitter.com/jpcalderone'&gt;@jpcalderone&lt;/a&gt; from &lt;a href='http://twistedmatrix.com/trac/'&gt;Twisted Matrix Labs&lt;/a&gt;&lt;/p&gt;

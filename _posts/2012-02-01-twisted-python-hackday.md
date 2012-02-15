@@ -5,8 +5,8 @@ tags : [twisted, python, rackspace, sf]
 ---
 {% include JB/setup %}
 
-<div class="alert alert-success center">
-Successful first public Rackspace SF Hackday! Around 35 hackers showed
+<div class="topinfo alert alert-success center">
+Successful first public Rackspace SF Hackday! <br />Around 35 hackers showed
 up and created some <a href="https://github.com/HackThePlanet/TwistedPython-HackDay">sweet demos</a>.
 </div>
 
