@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-14T17:53:50-08:00</updated>
+ <updated>2012-02-14T18:02:47-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -24,6 +24,7 @@
 &lt;ul class='unstyled'&gt;
   &lt;li&gt;&lt;b&gt;9&lt;/b&gt;am: Start Hacking&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;6&lt;/b&gt;pm: Tech Talk by &lt;a href='https://github.com/SubStack'&gt;James Halliday&lt;/a&gt; from &lt;a href='http://stackvm.com/'&gt;StackVM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;6.30&lt;/b&gt;pm: Tech Talk by &lt;a href='https://github.com/mikeal'&gt;Mikael Rogers&lt;/a&gt; from &lt;a href='https://www.yammer.com/'&gt;Yammer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;7&lt;/b&gt;pm: Demos (prizes sponsored by GitHub)&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;8&lt;/b&gt;pm: Move to a local bar&lt;/li&gt;
 &lt;/ul&gt;
