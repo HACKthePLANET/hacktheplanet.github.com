@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-09T03:41:28-08:00</updated>
+ <updated>2012-02-14T17:53:50-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -24,7 +24,7 @@
 &lt;ul class='unstyled'&gt;
   &lt;li&gt;&lt;b&gt;9&lt;/b&gt;am: Start Hacking&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;6&lt;/b&gt;pm: Tech Talk by &lt;a href='https://github.com/SubStack'&gt;James Halliday&lt;/a&gt; from &lt;a href='http://stackvm.com/'&gt;StackVM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;7&lt;/b&gt;pm: Demos&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;7&lt;/b&gt;pm: Demos (prizes sponsored by GitHub)&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;8&lt;/b&gt;pm: Move to a local bar&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Food, beer and skeeball provided. Bring ideas or find a team.&lt;/p&gt;
@@ -68,8 +68,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href='http://nodejshackday.eventbrite.com/'&gt;Eventbrite&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!--
-- [Meetup | Bay Area Software Engineers]( )
+&lt;div style='width:195px; text-align:center;'&gt;
+  &lt;iframe marginheight='0' scrolling='no' allowtransparency='true' src='http://www.eventbrite.com/countdown-widget?eid=2912586625' marginwidth='0' frameborder='0' height='312' width='195'&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;&lt;!--
+- [Meetup | Bay Area Software Engineers]( http://www.meetup.com/software/events/51882442/ )
 - [Meetup | SFJS](http://www.meetup.com/jsmeetup/events/51361712/ )
 --&gt;</content>
  </entry>

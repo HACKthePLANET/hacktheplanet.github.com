@@ -54,7 +54,12 @@ Food, beer and skeeball provided. Bring ideas or find a team.
 
 - [Eventbrite](http://nodejshackday.eventbrite.com/ )
 
+<div style="width:195px; text-align:center;" >
+  <iframe  src="http://www.eventbrite.com/countdown-widget?eid=2912586625" frameborder="0" height="312" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true">
+  </iframe>
+</div>
+
 <!--
-- [Meetup | Bay Area Software Engineers]( )
+- [Meetup | Bay Area Software Engineers]( http://www.meetup.com/software/events/51882442/ )
 - [Meetup | SFJS](http://www.meetup.com/jsmeetup/events/51361712/ )
 -->

@@ -7,7 +7,7 @@ tagline:
 
 ## Code
 
-Collaborate on hacks [here](https://github.com/HackThePlanet ).
+[Collaborate on hacks](https://github.com/HackThePlanet ).
 
 <br />
 
@@ -42,7 +42,7 @@ Collaborate on hacks [here](https://github.com/HackThePlanet ).
     <li>
       <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
       {% if post.title == "Node Js Hackday" %}
-        <span class="label label-warning">register!</span>
+        <span class="label label-warning"><a href="http://nodejshackday.eventbrite.com/">register!</a></span>
       {% endif %}
     </li>
   {% endfor %}
