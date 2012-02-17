@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-15T11:47:54-08:00</updated>
+ <updated>2012-02-15T12:04:51-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -35,6 +35,8 @@
 &lt;h2 id='some_ideas'&gt;Some ideas&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Dreadnot&lt;/span&gt; snaps a photo when a user clicks deploy&lt;/li&gt;
+
 &lt;li&gt;Async service that tracks developer metrics (eg, &lt;a href='https://github.com/hacktheplanet/developer-stats'&gt;Github developer stats&lt;/a&gt; or &lt;a href='http://twistedmatrix.com/highscores/'&gt;Twisted Highscores&lt;/a&gt;)&lt;/li&gt;
 
 &lt;li&gt;IRC/chat bot to read and post tweets (or interact with some API)&lt;/li&gt;

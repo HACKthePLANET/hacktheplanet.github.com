@@ -29,6 +29,7 @@ Food, drinks and skeeball provided.
 
 ## Some ideas
 
+- [Dreadnot] snaps a photo when a user clicks deploy
 - Async service that tracks developer metrics (eg, [Github developer stats][developer-stats] or [Twisted Highscores][highscores])
 - IRC/chat bot to read and post tweets (or interact with some API)
 - Hooking via [Hook.io][Hook.io]

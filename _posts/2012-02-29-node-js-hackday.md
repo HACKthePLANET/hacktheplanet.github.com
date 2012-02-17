@@ -14,7 +14,7 @@ Hack all day, or come watch the demos and hang out afterwards. Brought to you by
 <ul class="unstyled">
   <li><b>9</b>am: Start Hacking</li>
   <li><b>6</b>pm: Tech Talk by <a href="https://github.com/SubStack">James Halliday</a> from <a href="http://stackvm.com/">StackVM</a></li>
-  <li><b>6.30</b>pm: Tech Talk by <a href="https://github.com/mikeal">Mikeal Rogers</a> from <a href="https://www.yammer.com/">Yammer</a></li>
+  <li><b>6.30</b>pm: Tech Talk by <a href="https://github.com/mikeal">Mikeal Rogers</a> from Pouch</li>
   <li><b>7</b>pm: Demos (prizes sponsored by GitHub)</li>
   <li><b>8</b>pm: Move to a local bar</li>
 </ul>
