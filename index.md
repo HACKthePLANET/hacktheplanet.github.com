@@ -41,7 +41,7 @@ tagline:
   {% for post in site.posts %}
     <li>
       <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-      {% if post.title == "Node Js Hackday" %}
+      {% if post.title == "Node Js Hackday" or post.title == "Intern Hackday" %}
         <span class="label label-warning"><a href="http://nodejshackday.eventbrite.com/">register!</a></span>
       {% endif %}
     </li>
