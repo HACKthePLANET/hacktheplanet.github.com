@@ -41,6 +41,7 @@ Food, drinks and skeeball provided.
 - REST interfaces for language-specific libraries a la [libcloud.rest][lcrest]
 - REST interface for cron jobs a la [cron.io][cronio]
 - Web interface for remote terminal a la [tty.js][ttyjs]
+- Build something with Lua and libuv [LUVIT][luvit]
 
 [Dreadnot]: http://github.com/racker/dreadnot
 [OpenStack]: http://openstack.org/ 
@@ -53,6 +54,7 @@ Food, drinks and skeeball provided.
 [lcrest]: https://github.com/Kami/libcloud.rest
 [cronio]: http://cron.io/
 [ttyjs]: https://github.com/chjj/tty.js
+[luvit]: http://luvit.io
 
 ## More tools
 
