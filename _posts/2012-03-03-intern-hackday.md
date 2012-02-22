@@ -29,7 +29,7 @@ Food, drinks and skeeball provided.
 
 ## Some ideas
 
-- [Dreadnot] snaps a photo when a user clicks deploy
+- [Dreadnot][Dreadnot] snaps a photo when a user clicks deploy
 - Async service that tracks developer metrics (eg, [Github developer stats][developer-stats] or [Twisted Highscores][highscores])
 - IRC/chat bot to read and post tweets (or interact with some API)
 - Hooking via [Hook.io][Hook.io]
@@ -42,6 +42,7 @@ Food, drinks and skeeball provided.
 - REST interface for cron jobs a la [cron.io][cronio]
 - Web interface for remote terminal a la [tty.js][ttyjs]
 
+[Dreadnot]: http://github.com/racker/dreadnot
 [OpenStack]: http://openstack.org/ 
 [Keystone]: http://keystone.openstack.org/
 [Gerrit]: http://code.google.com/p/gerrit/
