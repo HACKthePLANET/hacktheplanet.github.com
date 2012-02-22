@@ -17,6 +17,8 @@ tags : [interns, java, c, c++, node.js, javascript, rackspace, sf]
   <li><b>6.00</b>pm: Demos</li>
 </ul>
 
+After lunch we'll have a campus tour, plus ad-hoc tech talks and whiteboarding as necessary.
+
 Food, drinks and skeeball provided.
 
 ## See you there!
