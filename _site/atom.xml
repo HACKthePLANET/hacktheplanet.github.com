@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-22T13:34:33-08:00</updated>
+ <updated>2012-02-22T13:51:37-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -103,7 +103,7 @@
 &lt;table class='table table-bordered table-striped'&gt;
   &lt;thead /&gt;
   &lt;tbody&gt;
-  &lt;tr&gt;&lt;td&gt;6.00 &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Start Hacking&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;9.00 &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Start Hacking&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;11.00  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk on &quot;Using Node.js as an API server&quot; by &lt;a href='https://github.com/pquerna'&gt;Paul Querna&lt;/a&gt; from &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;11.15  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk on &quot;Modules you should be using&quot; by &lt;a href='https://github.com/mikeal'&gt;Mikeal Rogers&lt;/a&gt; from Pouch&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;6.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk by &lt;a href='https://github.com/SubStack'&gt;James Halliday&lt;/a&gt; from &lt;a href='http://stackvm.com/'&gt;StackVM&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
