@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-21T13:36:19-08:00</updated>
+ <updated>2012-02-22T11:31:41-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -98,13 +98,18 @@
 &lt;h2 id='29_february_2012'&gt;29. February, 2012&lt;/h2&gt;
 
 &lt;p&gt;Hack all day, or come watch the demos and hang out afterwards. Brought to you by developers at &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; and &lt;a href='http://nodejitsu.com'&gt;Nodejitsu&lt;/a&gt;.&lt;/p&gt;
-&lt;ul class='unstyled'&gt;
-  &lt;li&gt;&lt;b&gt;9&lt;/b&gt;am: Start Hacking&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;6&lt;/b&gt;pm: Tech Talk by &lt;a href='https://github.com/SubStack'&gt;James Halliday&lt;/a&gt; from &lt;a href='http://stackvm.com/'&gt;StackVM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;6.30&lt;/b&gt;pm: Tech Talk on &quot;Modules you should be using&quot; by &lt;a href='https://github.com/mikeal'&gt;Mikeal Rogers&lt;/a&gt; from Pouch&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;7&lt;/b&gt;pm: Demos (prizes sponsored by GitHub)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;8&lt;/b&gt;pm: Move to a local bar&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table class='table table-bordered table-striped'&gt;
+  &lt;thead /&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;&lt;td&gt;6.00 &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Start Hacking&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;11.00  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk on &quot;Using Node.js as an API server&quot; by &lt;a href='https://github.com/pquerna'&gt;Paul Querna&lt;/a&gt; from &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;11.15  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk on &quot;Modules you should be using&quot; by &lt;a href='https://github.com/mikeal'&gt;Mikeal Rogers&lt;/a&gt; from Pouch&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;6.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk by &lt;a href='https://github.com/SubStack'&gt;James Halliday&lt;/a&gt; from &lt;a href='http://stackvm.com/'&gt;StackVM&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;6.30  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk on &quot;Profiling Node.js in production&quot; by &lt;a href='https://github.com/davepacheco'&gt;David Pacheco&lt;/a&gt; from &lt;a href='http://joyent.com'&gt;Joyent&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;7.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Demos (prizes sponsored by GitHub and Rackspace)&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;8.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Move to a local bar&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;Food, beer and skeeball provided. Bring ideas or find a team.&lt;/p&gt;
 
 &lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
