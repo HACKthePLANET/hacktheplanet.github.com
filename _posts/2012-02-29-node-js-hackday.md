@@ -17,7 +17,7 @@ Hack all day, or come watch the demos and hang out afterwards. Brought to you by
   <tr><td>9.00 <span class="light">am</span></td><td>Start Hacking</td></tr>
   <tr><td>11.00  <span class="light">am</span></td><td>Tech Talk on "Using Node.js as an API server" by <a href="https://github.com/pquerna">Paul Querna</a> from <a href="http://rackspace.com">Rackspace</a></td></tr>
   <tr><td>11.15  <span class="light">am</span></td><td>Tech Talk on "Modules you should be using" by <a href="https://github.com/mikeal">Mikeal Rogers</a> from Pouch</td></tr>
-  <tr><td>6.00  <span class="light">pm</span></td><td>Tech Talk by <a href="https://github.com/SubStack">James Halliday</a> from <a href="http://stackvm.com/">StackVM</a></td></tr>
+  <tr><td>6.00  <span class="light">pm</span></td><td>Tech Talk on "Building a federated architecture" by <a href="https://github.com/SubStack">James Halliday</a> from <a href="http://stackvm.com/">StackVM</a></td></tr>
   <tr><td>6.30  <span class="light">pm</span></td><td>Tech Talk on "Profiling Node.js in production" by <a href="https://github.com/davepacheco">David Pacheco</a> from <a href="http://joyent.com">Joyent</a> / <a href="http://joyentcloud.com">Joyent Cloud</a></td></tr>
   <tr><td>7.00  <span class="light">pm</span></td><td>Demos (prizes sponsored by GitHub and Rackspace)</td></tr>
   <tr><td>8.00  <span class="light">pm</span></td><td>Move to a local bar</td></tr>
