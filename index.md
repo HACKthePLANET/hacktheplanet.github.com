@@ -5,9 +5,11 @@ tagline:
 ---
 {% include JB/setup %}
 
-## Code
+## Code and Chat
 
-[Collaborate on hacks](https://github.com/HackThePlanet ).
+Collaborate on hacks inside the [GitHub HackThePlanet organization](https://github.com/HackThePlanet ). 
+
+Chat with us on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:4443/%23%23gibson ).
 
 <br />
 
@@ -48,10 +50,20 @@ tagline:
   {% endfor %}
 </ul>
 
-## Propose an Event or Challenge
+## Proposals
 
-<ul class="unstyled">
-  <li>Submit a <a href="https://github.com/HackThePlanet/hacktheplanet.github.com/tree/master/_posts">new post</a> Pull Request.</li>
-  <li><a href="http://github.com/hacktheplanet/hacktheplanet.github.com/issues">Issue a theme request</a>.</li>
-  <li>Email <a href="mailto:hacktheplanet@lists.rackspace.com">hacktheplanet@lists.rackspace.com</a>.</li>
+We're looking for:
+
+<ul>
+  <li>Events</li>
+  <li>Challenges</li>
+  <li>Tech Talks</li>
+</ul>
+
+Use any of the following mechanisms to communicte:
+
+<ul>
+  <li>Submit a pull request for a <a href="https://github.com/HackThePlanet/hacktheplanet.github.com/tree/master/_posts">new post</a>.</li>
+  <li>Create an <a href="http://github.com/hacktheplanet/hacktheplanet.github.com/issues">Issue</a>.</li>
+  <li>Email <a href="mailto:lucy.mendel@rackspace.com">lucy.mendel@rackspace.com</a>.</li>
 </ul>

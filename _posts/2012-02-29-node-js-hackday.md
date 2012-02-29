@@ -7,6 +7,8 @@ tags : [node.js, javascript, rackspace, sf]
 
 <div class="topinfo center alert"><b>Hack on projects using <a href="http://nodejs.org/">node.js</a> at Rackspace's new San Francisco office.</b></div>
 
+We're hanging out in #nodejshackday on irc.freenode.net
+
 ## 29. February, 2012
 
 Hack all day, or come watch the demos and hang out afterwards. Brought to you by developers at <a href="http://rackspace.com">Rackspace</a> and <a href="http://nodejitsu.com">Nodejitsu</a>.
@@ -29,8 +31,8 @@ Food, beer and skeeball provided. Bring ideas or find a team.
 ## See you there!
 
 <ul class="unstyled">
-  <li><a href="http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&hl=de&sll=37.0625,-95.677068&sspn=48.77566,92.724609&oq=620+Folsom+S&hnear=620+Folsom+St,+San+Francisco,+California+94105&t=m&z=16">Rackspace San Francisco</a></li>
-  <li>620 Folsom Street</li>
+  <li>Rackspace San Francisco</li>
+  <li>620 Folsom Street (near 2nd in SoMa)</li>
   <li>Suite 100 (Ground Floor)</li>
 </ul>
 

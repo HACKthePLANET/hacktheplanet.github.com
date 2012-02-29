@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-22T13:51:37-08:00</updated>
+ <updated>2012-02-28T22:29:08-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -19,21 +19,23 @@
    <id>hhttp://hacktheplanet.github.com/hackday/2012/03/03/intern-hackday</id>
    <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; employees and get a sweet summer internship in San Francisco&lt;/b&gt;&lt;/div&gt;&lt;img src='/assets/themes/twitter/img/rax_sfo.png' /&gt;
 &lt;h2 id='3_march_2012'&gt;3. March, 2012&lt;/h2&gt;
-&lt;ul class='unstyled'&gt;
-  &lt;li&gt;&lt;b&gt;10.00&lt;/b&gt;am: Start Hacking&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;5.30&lt;/b&gt;pm: Rackspace Tech Talk and Q&amp;A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;6.00&lt;/b&gt;pm: Demos&lt;/li&gt;
-&lt;/ul&gt;
+&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;ul class=&amp;quot;unstyled&amp;quot;&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;10.00&amp;lt;/b&amp;gt;am: Start Hacking&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;5.30&amp;lt;/b&amp;gt;pm: Rackspace Tech Talk and Q&amp;amp;A&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;6.00&amp;lt;/b&amp;gt;pm: Demos&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&lt;/pre&gt;
 &lt;p&gt;After lunch we&amp;#8217;ll have a campus tour, plus ad-hoc tech talks and whiteboarding as necessary.&lt;/p&gt;
 
 &lt;p&gt;Food, drinks and skeeball provided.&lt;/p&gt;
 
 &lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
-&lt;ul class='unstyled'&gt;
-  &lt;li&gt;&lt;a href='http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&amp;hl=de&amp;sll=37.0625,-95.677068&amp;sspn=48.77566,92.724609&amp;oq=620+Folsom+S&amp;hnear=620+Folsom+St,+San+Francisco,+California+94105&amp;t=m&amp;z=16'&gt;Rackspace San Francisco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;620 Folsom Street&lt;/li&gt;
-  &lt;li&gt;Suite 100 (Ground Floor)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
+&amp;lt;ul class=&amp;quot;unstyled&amp;quot;&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&amp;amp;hl=de&amp;amp;sll=37.0625,-95.677068&amp;amp;sspn=48.77566,92.724609&amp;amp;oq=620+Folsom+S&amp;amp;hnear=620+Folsom+St,+San+Francisco,+California+94105&amp;amp;t=m&amp;amp;z=16&amp;quot;&amp;gt;Rackspace San Francisco&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;620 Folsom Street&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Suite 100 (Ground Floor)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&lt;/pre&gt;
 &lt;h2 id='some_ideas'&gt;Some ideas&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -60,6 +62,8 @@
 &lt;li&gt;REST interface for cron jobs a la &lt;a href='http://cron.io/'&gt;cron.io&lt;/a&gt;&lt;/li&gt;
 
 &lt;li&gt;Web interface for remote terminal a la &lt;a href='https://github.com/chjj/tty.js'&gt;tty.js&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Build something with Lua and libuv &lt;a href='http://luvit.io'&gt;LUVIT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id='more_tools'&gt;More tools&lt;/h2&gt;
@@ -97,6 +101,8 @@
    <updated>2012-02-29T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/02/29/node-js-hackday</id>
    <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack on projects using &lt;a href='http://nodejs.org/'&gt;node.js&lt;/a&gt; at Rackspace's new San Francisco office.&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;We&amp;#8217;re hanging out in #nodejshackday on irc.freenode.net&lt;/p&gt;
+
 &lt;h2 id='29_february_2012'&gt;29. February, 2012&lt;/h2&gt;
 
 &lt;p&gt;Hack all day, or come watch the demos and hang out afterwards. Brought to you by developers at &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; and &lt;a href='http://nodejitsu.com'&gt;Nodejitsu&lt;/a&gt;.&lt;/p&gt;
@@ -116,8 +122,8 @@
 
 &lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
 &lt;ul class='unstyled'&gt;
-  &lt;li&gt;&lt;a href='http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&amp;hl=de&amp;sll=37.0625,-95.677068&amp;sspn=48.77566,92.724609&amp;oq=620+Folsom+S&amp;hnear=620+Folsom+St,+San+Francisco,+California+94105&amp;t=m&amp;z=16'&gt;Rackspace San Francisco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;620 Folsom Street&lt;/li&gt;
+  &lt;li&gt;Rackspace San Francisco&lt;/li&gt;
+  &lt;li&gt;620 Folsom Street (near 2nd in SoMa)&lt;/li&gt;
   &lt;li&gt;Suite 100 (Ground Floor)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id='some_ideas'&gt;Some ideas&lt;/h2&gt;
@@ -154,7 +160,7 @@
 &lt;li&gt;&lt;a href='http://nodejshackday.eventbrite.com/'&gt;Eventbrite&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div style='width:195px; text-align:center;'&gt;
-  &lt;iframe marginheight='0' scrolling='no' allowtransparency='true' src='http://www.eventbrite.com/countdown-widget?eid=2912586625' marginwidth='0' frameborder='0' height='312' width='195'&gt;
+  &lt;iframe allowtransparency='true' frameborder='0' height='312' marginheight='0' marginwidth='0' scrolling='no' src='http://www.eventbrite.com/countdown-widget?eid=2912586625' width='195'&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;&lt;!--
 - [Meetup | Bay Area Software Engineers]( http://www.meetup.com/software/events/51882442/ )
