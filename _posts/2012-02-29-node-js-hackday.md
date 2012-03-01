@@ -57,6 +57,7 @@ Food, beer and skeeball provided. Bring ideas or find a team.
 - [express](http://expressjs.com/ )
 - [jade](http://jade-lang.com/ )
 - [bootstrap](http://twitter.github.com/bootstrap/ )
+- [backbone.ioBind](https://github.com/logicalparadox/backbone.iobind )
 
 ## Register
 

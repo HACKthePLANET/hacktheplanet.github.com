@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-02-28T22:29:08-08:00</updated>
+ <updated>2012-03-01T00:02:51-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -19,23 +19,21 @@
    <id>hhttp://hacktheplanet.github.com/hackday/2012/03/03/intern-hackday</id>
    <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; employees and get a sweet summer internship in San Francisco&lt;/b&gt;&lt;/div&gt;&lt;img src='/assets/themes/twitter/img/rax_sfo.png' /&gt;
 &lt;h2 id='3_march_2012'&gt;3. March, 2012&lt;/h2&gt;
-&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
-&amp;lt;ul class=&amp;quot;unstyled&amp;quot;&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;10.00&amp;lt;/b&amp;gt;am: Start Hacking&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;5.30&amp;lt;/b&amp;gt;pm: Rackspace Tech Talk and Q&amp;amp;A&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;6.00&amp;lt;/b&amp;gt;pm: Demos&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&lt;/pre&gt;
+&lt;ul class='unstyled'&gt;
+  &lt;li&gt;&lt;b&gt;10.00&lt;/b&gt;am: Start Hacking&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;5.30&lt;/b&gt;pm: Rackspace Tech Talk and Q&amp;A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;6.00&lt;/b&gt;pm: Demos&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;After lunch we&amp;#8217;ll have a campus tour, plus ad-hoc tech talks and whiteboarding as necessary.&lt;/p&gt;
 
 &lt;p&gt;Food, drinks and skeeball provided.&lt;/p&gt;
 
 &lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
-&lt;pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'&gt;REXML could not parse this XML/HTML: 
-&amp;lt;ul class=&amp;quot;unstyled&amp;quot;&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&amp;amp;hl=de&amp;amp;sll=37.0625,-95.677068&amp;amp;sspn=48.77566,92.724609&amp;amp;oq=620+Folsom+S&amp;amp;hnear=620+Folsom+St,+San+Francisco,+California+94105&amp;amp;t=m&amp;amp;z=16&amp;quot;&amp;gt;Rackspace San Francisco&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;620 Folsom Street&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Suite 100 (Ground Floor)&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&lt;/pre&gt;
+&lt;ul class='unstyled'&gt;
+  &lt;li&gt;&lt;a href='http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&amp;hl=de&amp;sll=37.0625,-95.677068&amp;sspn=48.77566,92.724609&amp;oq=620+Folsom+S&amp;hnear=620+Folsom+St,+San+Francisco,+California+94105&amp;t=m&amp;z=16'&gt;Rackspace San Francisco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;620 Folsom Street&lt;/li&gt;
+  &lt;li&gt;Suite 100 (Ground Floor)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id='some_ideas'&gt;Some ideas&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -112,7 +110,7 @@
   &lt;tr&gt;&lt;td&gt;9.00 &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Start Hacking&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;11.00  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk on &quot;Using Node.js as an API server&quot; by &lt;a href='https://github.com/pquerna'&gt;Paul Querna&lt;/a&gt; from &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;11.15  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk on &quot;Modules you should be using&quot; by &lt;a href='https://github.com/mikeal'&gt;Mikeal Rogers&lt;/a&gt; from Pouch&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;6.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk by &lt;a href='https://github.com/SubStack'&gt;James Halliday&lt;/a&gt; from &lt;a href='http://stackvm.com/'&gt;StackVM&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;6.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk on &quot;Building a federated architecture&quot; by &lt;a href='https://github.com/SubStack'&gt;James Halliday&lt;/a&gt; from &lt;a href='http://stackvm.com/'&gt;StackVM&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;6.30  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk on &quot;Profiling Node.js in production&quot; by &lt;a href='https://github.com/davepacheco'&gt;David Pacheco&lt;/a&gt; from &lt;a href='http://joyent.com'&gt;Joyent&lt;/a&gt; / &lt;a href='http://joyentcloud.com'&gt;Joyent Cloud&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;7.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Demos (prizes sponsored by GitHub and Rackspace)&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;8.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Move to a local bar&lt;/td&gt;&lt;/tr&gt;
@@ -152,6 +150,8 @@
 &lt;li&gt;&lt;a href='http://jade-lang.com/'&gt;jade&lt;/a&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;a href='http://twitter.github.com/bootstrap/'&gt;bootstrap&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='https://github.com/logicalparadox/backbone.iobind'&gt;backbone.ioBind&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id='register'&gt;Register&lt;/h2&gt;
@@ -160,7 +160,7 @@
 &lt;li&gt;&lt;a href='http://nodejshackday.eventbrite.com/'&gt;Eventbrite&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div style='width:195px; text-align:center;'&gt;
-  &lt;iframe allowtransparency='true' frameborder='0' height='312' marginheight='0' marginwidth='0' scrolling='no' src='http://www.eventbrite.com/countdown-widget?eid=2912586625' width='195'&gt;
+  &lt;iframe marginheight='0' scrolling='no' allowtransparency='true' src='http://www.eventbrite.com/countdown-widget?eid=2912586625' marginwidth='0' frameborder='0' height='312' width='195'&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;&lt;!--
 - [Meetup | Bay Area Software Engineers]( http://www.meetup.com/software/events/51882442/ )
