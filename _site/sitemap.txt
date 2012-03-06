@@ -7,6 +7,9 @@ http://hacktheplanet.github.com/pages.html
 http://hacktheplanet.github.com/sitemap.txt
 http://hacktheplanet.github.com/tags.html
 
+http://hacktheplanet.github.com/hackday/2012/05/02/data-visualization-hackday
+http://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source
+http://hacktheplanet.github.com/hackday/2012/03/28/elastic-search-hackday
 http://hacktheplanet.github.com/hackday/2012/03/03/intern-hackday
 http://hacktheplanet.github.com/hackday/2012/02/29/node-js-hackday
 http://hacktheplanet.github.com/hackday/2012/02/01/twisted-python-hackday

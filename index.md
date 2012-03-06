@@ -43,8 +43,11 @@ Chat with us on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:44
   {% for post in site.posts %}
     <li>
       <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-      {% if post.title == "Intern Hackday" %}
-        <span class="label label-warning"><a href="http://internhackday.eventbrite.com/">register!</a></span>
+      {% if post.title == "Elastic Search Hackday" %}
+        <span class="label label-warning"><a href="http://elasticsearchhackday.eventbrite.com/">register!</a></span>
+      {% endif %}
+      {% if post.title == "Data Visualization Hackday" %}
+        <span class="label label-warning"><a href="http://datavizhackday.eventbrite.com/">register!</a></span>
       {% endif %}
     </li>
   {% endfor %}
