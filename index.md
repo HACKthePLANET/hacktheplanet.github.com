@@ -5,17 +5,15 @@ tagline:
 ---
 {% include JB/setup %}
 
-## Code and Chat
+## Code
 
 Collaborate on hacks inside the [GitHub HackThePlanet organization](https://github.com/HackThePlanet ). 
 
-Chat with us on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:4443/%23%23gibson ).
+We hang out on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:4443/%23%23gibson ).
 
-<br />
+## Videos <small>(<a href="/videos.html">All</a>)</small>
 
-<div class="row">
-  <div class="span1"><p></p></div>
-
+<div class="row" style="margin-bottom: 10px;">
   <div class="span3">
     <p><b><a href="http://creepagram.com/">Creepagram</a></b><br /><span style="color:grey;">1st Place Demo at Node.js Hackday</span></p>
     <p>Instagram + Google Street View Panoramas</p>
@@ -26,7 +24,7 @@ Chat with us on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:44
   </div>
 
   <div class="span3">
-    <p><b>Cloud Crypto</b></p>
+    <p><b>Cloud Crypto</b><br /><span>&nbsp;</span></p>
     <p>connect middleware to encrypt http bodies</p>
     <p><a href="https://github.com/philips/connect-crypto" class="btn btn">More &raquo;</a></p>
   </div>
@@ -38,9 +36,7 @@ Chat with us on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:44
   </div>
 </div>
 
-<br />
-
-## Events and Challenges
+## Events
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -61,15 +57,15 @@ Chat with us on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:44
 We're looking for:
 
 <ul>
-  <li>Events</li>
+  <li>Tech Talks at upcoming events</li>
+  <li>Event ideas</li>
   <li>Challenges</li>
-  <li>Tech Talks</li>
 </ul>
 
 Use any of the following mechanisms to communicte:
 
 <ul>
-  <li>Submit a pull request for a <a href="https://github.com/HackThePlanet/hacktheplanet.github.com/tree/master/_posts">new post</a>.</li>
-  <li>Create an <a href="http://github.com/hacktheplanet/hacktheplanet.github.com/issues">Issue</a>.</li>
   <li>Email <a href="mailto:lucy.mendel@rackspace.com">lucy.mendel@rackspace.com</a>.</li>
+  <li>Submit a pull request for a <a href="https://github.com/HackThePlanet/hacktheplanet.github.com/tree/master/_posts">new event</a>.</li>
+  <li>Create an <a href="http://github.com/hacktheplanet/hacktheplanet.github.com/issues">issue</a> with ideas, bugs andPP feature requests.</li>
 </ul>
