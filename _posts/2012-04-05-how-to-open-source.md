@@ -37,13 +37,6 @@ open source contributors.</p>
 ## See you there!
 
 TBA location (somewhere on Berkeley's campus)
-<!--
-<ul class="unstyled">
-  <li><a href="http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&hl=de&sll=37.0625,-95.677068&sspn=48.77566,92.724609&oq=620+Folsom+S&hnear=620+Folsom+St,+San+Francisco,+California+94105&t=m&z=16">Rackspace San Francisco</a></li>
-  <li>620 Folsom Street</li>
-  <li>Suite 100 (Ground Floor)</li>
-</ul>
--->
 
 ## Open Source Projects
 

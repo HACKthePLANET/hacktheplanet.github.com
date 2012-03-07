@@ -6,6 +6,7 @@ http://hacktheplanet.github.com/index.html
 http://hacktheplanet.github.com/pages.html
 http://hacktheplanet.github.com/sitemap.txt
 http://hacktheplanet.github.com/tags.html
+http://hacktheplanet.github.com/videos.html
 
 http://hacktheplanet.github.com/hackday/2012/05/02/data-visualization-hackday
 http://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source

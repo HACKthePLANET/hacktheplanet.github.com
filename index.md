@@ -17,21 +17,24 @@ Chat with us on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:44
   <div class="span1"><p></p></div>
 
   <div class="span3">
-    <p><b>Twisted-Hang</b></p>
-    <p>Figure out if the main thread is hanging, and if so, why.</p>
-    <p><a href="https://github.com/HackThePlanet/twisted_hang" class="btn btn">More &raquo;</a></p>
+    <p><b><a href="http://creepagram.com/">Creepagram</a></b><br /><span style="color:grey;">1st Place Demo at Node.js Hackday</span></p>
+    <p>Instagram + Google Street View Panoramas</p>
+    <p><a href="https://github.com/mindflash/creepagram" class="btn btn">More &raquo;</a></p>
+    <iframe src="http://player.vimeo.com/video/38053195?portrait=0" width="201" height="113" frameborder="0" >
+      Creepagram
+    </iframe>
   </div>
 
   <div class="span3">
-    <p><b>AMP Repl</b></p>
-    <p>Terminal-based REPL to interact with AMP</p>
-    <p><a href="https://code.launchpad.net/~exarkun/+junk/amp-repl" class="btn btn">More &raquo;</a></p>
+    <p><b>Cloud Crypto</b></p>
+    <p>connect middleware to encrypt http bodies</p>
+    <p><a href="https://github.com/philips/connect-crypto" class="btn btn">More &raquo;</a></p>
   </div>
 
   <div class="span3">
-    <p><b>Slogger</b></p>
-    <p>slog through your irc logs and toss 'em into elastic search</p>
-    <p><a href="https://github.com/morgabra/slogger" class="btn btn">More &raquo;</a></p>
+    <p><b>Request-JSONStream</b><br /><span style="color:grey;">3rd Place Demo at Node.js Hackday</span></p>
+    <p>Send or receive JSON as newline delimited object via request</p>
+    <p><a href="https://github.com/smurthas/Request-JSONStream" class="btn btn">More &raquo;</a></p>
   </div>
 </div>
 

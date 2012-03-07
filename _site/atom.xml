@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-03-06T12:49:56-08:00</updated>
+ <updated>2012-03-06T16:01:54-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -43,6 +43,10 @@
   &lt;li&gt;620 Folsom Street (near 2nd in SoMa)&lt;/li&gt;
   &lt;li&gt;Suite 100 (Ground Floor)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id='some_ideas_and_tools'&gt;Some ideas and tools&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href='http://mbostock.github.com/d3/'&gt;d3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id='register'&gt;Register&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -73,13 +77,7 @@ open source contributors.&lt;/p&gt;&lt;p&gt;Why Open Source?&lt;/p&gt;&lt;ul&gt;
 --&gt;
 &lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
 
-&lt;p&gt;TBA location (somewhere on Berkeley&amp;#8217;s campus) &lt;!--
-&lt;ul class=&quot;unstyled&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;http://maps.google.com/maps?q=620+Folsom+Street,+San+Francisco,+CA,+United+States&amp;hl=de&amp;sll=37.0625,-95.677068&amp;sspn=48.77566,92.724609&amp;oq=620+Folsom+S&amp;hnear=620+Folsom+St,+San+Francisco,+California+94105&amp;t=m&amp;z=16&quot;&gt;Rackspace San Francisco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;620 Folsom Street&lt;/li&gt;
-  &lt;li&gt;Suite 100 (Ground Floor)&lt;/li&gt;
-&lt;/ul&gt;
---&gt;&lt;/p&gt;
+&lt;p&gt;TBA location (somewhere on Berkeley&amp;#8217;s campus)&lt;/p&gt;
 
 &lt;h2 id='open_source_projects'&gt;Open Source Projects&lt;/h2&gt;
 

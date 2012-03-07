@@ -36,6 +36,12 @@ Food, beer and skeeball provided. Bring ideas or find a team.
   <li>Suite 100 (Ground Floor)</li>
 </ul>
 
+## Some ideas and tools
+
+<ul>
+  <li><a href="http://mbostock.github.com/d3/">d3</a></li>
+</ul>
+
 ## Register
 
 - [Eventbrite](http://datavizhackday.eventbrite.com/ )
