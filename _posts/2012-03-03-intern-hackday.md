@@ -9,15 +9,41 @@ tags : [interns, java, c, c++, node.js, javascript, rackspace, sf]
 
 <img src="{{ ASSET_PATH }}twitter/img/rax_sfo.png">
 
+## Event Recap
+
+<ul>
+  <li><a href="https://github.com/marystufflebeam">IRC Bot</a> with ToDo tracker and wolfram alpha answers</li>
+  <li><a href="https://github.com/marystufflebeam">IRC Client and Bot</a>
+    <ul>
+      <li><a href="https://github.com/thedjpetersen/subway">Found this later</a>; looks interesting</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/termie/granny">Granny</a>, a commit language analyzer</li>
+  <li><a href="https://github.com/mkandrashoff/NARK">NARK</a>, a named entity recognizer</li>
+  <li>Contributions to <a href="https://github.com/racker/gutsy">Gutsy</a>, an open source devops.json-driven dashboard
+    <ul>
+      <li><a href="https://github.com/dtscraft/gutsy">dtscraft</a></li>
+      <li><a href="https://github.com/greast47/gutsy">greast47</a></li>
+      <li><a href="https://github.com/carriesmatic/gutsy">carriesmatic</a></li>
+      <li><a href="https://github.com/Zikky/gutsy">Zikky</a></li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/linkenneth/RackSpace-HackDay-Go-Game">Go Game</a></li>
+  <li><a href="https://github.com/DenerosArmy/cumulus">Project Cumulus by Denero's Army</a>, cloud file security
+    <ul>
+      <li><a href="https://tahoe-lafs.org/trac/tahoe-lafs">Found this later</a>; looks interesting</li>
+    </ul>
+  </li>
+</ul>
+
 ## 3. March, 2012
 
 <ul class="unstyled">
   <li><b>10.00</b>am: Start Hacking</li>
+  <li><b>11.30</b>am: Campus Tour</li>
   <li><b>5.30</b>pm: Rackspace Tech Talk and Q&A</li>
   <li><b>6.00</b>pm: Demos</li>
 </ul>
-
-After lunch we'll have a campus tour, plus ad-hoc tech talks and whiteboarding as necessary.
 
 Food, drinks and skeeball provided.
 

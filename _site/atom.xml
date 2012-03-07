@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-03-07T11:22:52-08:00</updated>
+ <updated>2012-03-07T11:42:06-08:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -142,14 +142,38 @@ open source contributors.&lt;/p&gt;&lt;p&gt;Why Open Source?&lt;/p&gt;&lt;ul&gt;
    <updated>2012-03-03T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/03/03/intern-hackday</id>
    <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; employees and get a sweet summer internship in San Francisco&lt;/b&gt;&lt;/div&gt;&lt;img src='/assets/themes/twitter/img/rax_sfo.png' /&gt;
+&lt;h2 id='event_recap'&gt;Event Recap&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href='https://github.com/marystufflebeam'&gt;IRC Bot&lt;/a&gt; with ToDo tracker and wolfram alpha answers&lt;/li&gt;
+  &lt;li&gt;&lt;a href='https://github.com/marystufflebeam'&gt;IRC Client and Bot&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href='https://github.com/thedjpetersen/subway'&gt;Found this later&lt;/a&gt;; looks interesting&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href='https://github.com/termie/granny'&gt;Granny&lt;/a&gt;, a commit language analyzer&lt;/li&gt;
+  &lt;li&gt;&lt;a href='https://github.com/mkandrashoff/NARK'&gt;NARK&lt;/a&gt;, a named entity recognizer&lt;/li&gt;
+  &lt;li&gt;Contributions to &lt;a href='https://github.com/racker/gutsy'&gt;Gutsy&lt;/a&gt;, an open source devops.json-driven dashboard
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href='https://github.com/dtscraft/gutsy'&gt;dtscraft&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href='https://github.com/greast47/gutsy'&gt;greast47&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href='https://github.com/carriesmatic/gutsy'&gt;carriesmatic&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href='https://github.com/Zikky/gutsy'&gt;Zikky&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href='https://github.com/linkenneth/RackSpace-HackDay-Go-Game'&gt;Go Game&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href='https://github.com/DenerosArmy/cumulus'&gt;Project Cumulus by Denero's Army&lt;/a&gt;, cloud file security
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href='https://tahoe-lafs.org/trac/tahoe-lafs'&gt;Found this later&lt;/a&gt;; looks interesting&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id='3_march_2012'&gt;3. March, 2012&lt;/h2&gt;
 &lt;ul class='unstyled'&gt;
   &lt;li&gt;&lt;b&gt;10.00&lt;/b&gt;am: Start Hacking&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;11.30&lt;/b&gt;am: Campus Tour&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;5.30&lt;/b&gt;pm: Rackspace Tech Talk and Q&amp;A&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;6.00&lt;/b&gt;pm: Demos&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;After lunch we&amp;#8217;ll have a campus tour, plus ad-hoc tech talks and whiteboarding as necessary.&lt;/p&gt;
-
 &lt;p&gt;Food, drinks and skeeball provided.&lt;/p&gt;
 
 &lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
