@@ -9,7 +9,7 @@ tags : [data visualization, rackspace, sf, javascript, jquery, processing, java,
 
 We're hanging out in ##gibson on irc.freenode.net
 
-## 28. March, 2012
+## 2. May, 2012
 
 Hack all day, or come watch the demos and hang out afterwards. Brought to you by developers at <a href="http://rackspace.com">Rackspace</a>.
 
