@@ -5,6 +5,10 @@ tags : [node.js, javascript, rackspace, sf]
 ---
 {% include JB/setup %}
 
+<div class="topinfo alert alert-success center">
+Watch videos of the tech talks and demos <a href="http://www.youtube.com/playlist?list=PL39180396296857D2&feature=plcp">HERE</a>
+</div>
+
 <div class="topinfo center alert"><b>Hack on projects using <a href="http://nodejs.org/">node.js</a> at Rackspace's new San Francisco office.</b></div>
 
 We're hanging out in #nodejshackday on irc.freenode.net

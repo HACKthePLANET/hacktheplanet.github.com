@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-03-27T11:50:12-07:00</updated>
+ <updated>2012-03-27T13:34:14-07:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -243,7 +243,9 @@ open source contributors.&lt;/p&gt;&lt;p&gt;Why Open Source?&lt;/p&gt;&lt;ul&gt;
    <link href="http://hacktheplanet.github.com/hackday/2012/02/29/node-js-hackday"/>
    <updated>2012-02-29T00:00:00-08:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/02/29/node-js-hackday</id>
-   <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack on projects using &lt;a href='http://nodejs.org/'&gt;node.js&lt;/a&gt; at Rackspace's new San Francisco office.&lt;/b&gt;&lt;/div&gt;
+   <content type="html">&lt;div class='topinfo alert alert-success center'&gt;
+Watch videos of the tech talks and demos &lt;a href='http://www.youtube.com/playlist?list=PL39180396296857D2&amp;feature=plcp'&gt;HERE&lt;/a&gt;
+&lt;/div&gt;&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack on projects using &lt;a href='http://nodejs.org/'&gt;node.js&lt;/a&gt; at Rackspace's new San Francisco office.&lt;/b&gt;&lt;/div&gt;
 &lt;p&gt;We&amp;#8217;re hanging out in #nodejshackday on irc.freenode.net&lt;/p&gt;
 
 &lt;h2 id='29_february_2012'&gt;29. February, 2012&lt;/h2&gt;
