@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-03-07T11:42:06-08:00</updated>
+ <updated>2012-03-27T11:50:12-07:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -113,11 +113,8 @@ open source contributors.&lt;/p&gt;&lt;p&gt;Why Open Source?&lt;/p&gt;&lt;ul&gt;
   &lt;thead /&gt;
   &lt;tbody&gt;
   &lt;tr&gt;&lt;td&gt;9.00 &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Start Hacking&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;11.00  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk tba&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;11.15  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk tba&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;6.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk tba&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;6.30  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk tba&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;7.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Demos (prizes sponsored by Rackspace)&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;11.00  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk by Brad Morgan&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;7.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Demos&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;8.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Move to a local bar&lt;/td&gt;&lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
