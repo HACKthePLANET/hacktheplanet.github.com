@@ -25,8 +25,8 @@ We hang out on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:444
 
   <div class="span3">
     <p><b>Cloud Crypto</b><br /><span>&nbsp;</span></p>
-    <p>connect middleware to encrypt http bodies</p>
-    <p><a href="https://github.com/philips/connect-crypto" class="btn btn">More &raquo;</a></p>
+    <p>transparent crypto proxy for cloud files</p>
+    <p><a href="https://github.com/philips/cloudfiles-crypto-proxy" class="btn btn">More &raquo;</a></p>
   </div>
 
   <div class="span3">
