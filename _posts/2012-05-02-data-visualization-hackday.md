@@ -7,6 +7,8 @@ tags : [data visualization, rackspace, sf, javascript, jquery, processing, java,
 
 <div class="topinfo center alert"><b>Hack on neat data visualizations at Rackspace's San Francisco office.</b></div>
 
+<div class="topinfo center alert alert-warning"><b>Please submit tech talk proposals to <a href="mailto:lucy.mendel@rackspace.com">lucy.mendel@rackspace.com</a></b></div>
+
 We're hanging out in ##gibson on irc.freenode.net
 
 ## 2. May, 2012
