@@ -36,7 +36,14 @@ open source contributors.</p>
 
 ## See you there!
 
-TBA location (somewhere on Berkeley's campus)
+<img src="http://www.eecs.berkeley.edu/Campus/Directions/soda.gif" width="200px">
+
+<ul class="unstyled">
+  <li>April 2nd</li>
+  <li>7 - 8:30pm</li>
+  <li><a href="http://maps.google.com/maps?q=Soda+Hall,+Berkeley,+CA,+United+States">UC Berkeley Soda Hall</a></li>
+  <li>Pizza provided</li>
+</ul>
 
 ## Open Source Projects
 
