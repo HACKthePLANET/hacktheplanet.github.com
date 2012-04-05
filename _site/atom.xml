@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-04-03T10:03:52-07:00</updated>
+ <updated>2012-04-04T21:20:53-07:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -55,11 +55,19 @@
  </entry>
  
  <entry>
+   <title>How To Open Source Workshop Slides</title>
+   <link href="http://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source-workshop-slides"/>
+   <updated>2012-04-05T00:00:00-07:00</updated>
+   <id>hhttp://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source-workshop-slides</id>
+   <content type="html">&lt;div class='center alert alert-info'&gt;&lt;a href='/hackday/2012/04/05/how-to-open-source/'&gt;Back to How to Open Source event details&lt;/a&gt;&lt;/div&gt;&lt;iframe mozallowfullscreen='true' src='https://docs.google.com/a/cloudkick.com/presentation/embed?id=1e3VYjf2pii7ILNOMTtpZQt0R56YF2EfMVWg1UG3x-sY&amp;start=false&amp;loop=false&amp;delayms=3000' allowfullscreen='true' frameborder='0' height='749' webkitallowfullscreen='true' width='960' /&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>How To Open Source</title>
    <link href="http://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source"/>
    <updated>2012-04-05T00:00:00-07:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source</id>
-   <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;A hands-on workshp with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; developers on &lt;a href='http://berkeley.edu/'&gt;Berkeley's&lt;/a&gt; campus.&lt;/b&gt;&lt;/div&gt;&lt;img src='/assets/themes/twitter/img/berkeley.jpg' style='margin:auto; display: block;' /&gt;&lt;p style='text-align: center;'&gt;Hosted by &lt;a href='http://hackersatberkeley.com/'&gt;Hack Berkeley&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;A hands-on workshp with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; developers on &lt;a href='http://berkeley.edu/'&gt;Berkeley's&lt;/a&gt; campus.&lt;/b&gt;&lt;/div&gt;&lt;div class='center alert alert-info'&gt;&lt;a href='/hackday/2012/04/05/how-to-open-source-workshop-slides/'&gt;Go here to view Workshop Slides&lt;/a&gt;&lt;/div&gt;&lt;img src='/assets/themes/twitter/img/berkeley.jpg' style='margin:auto; display: block;' /&gt;&lt;p style='text-align: center;'&gt;Hosted by &lt;a href='http://hackersatberkeley.com/'&gt;Hack Berkeley&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id='5_april_2012'&gt;5. April, 2012&lt;/h2&gt;
 &lt;p&gt;How to Open Source: In this workshop we will contribute in real time to a
 widely-used Open Source project while explaining best practices. Attendees

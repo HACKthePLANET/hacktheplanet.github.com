@@ -1,11 +1,13 @@
 ---
 layout: post
 category : hackday
-tags : [berkeley, interns, python, github, node.js, javascript, java]
+tags : [berkeley, interns, open source]
 ---
 {% include JB/setup %}
 
 <div class="topinfo center alert"><b>A hands-on workshp with <a href="http://rackspace.com">Rackspace</a> developers on <a href="http://berkeley.edu/">Berkeley's</a> campus.</b></div>
+
+<div class="center alert alert-info"><a href="/hackday/2012/04/05/how-to-open-source-workshop-slides/">Go here to view Workshop Slides</a></div>
 
 <img style="margin:auto; display: block;" src="{{ ASSET_PATH }}twitter/img/berkeley.jpg">
 
