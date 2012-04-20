@@ -5,6 +5,8 @@ tags : [data visualization, rackspace, sf, javascript, jquery, processing, java,
 ---
 {% include JB/setup %}
 
+<div class="center alert alert-error"><b>CANCELLED</b></div>
+
 <div class="topinfo center alert"><b>Hack on neat data visualizations at Rackspace's San Francisco office.</b></div>
 
 <div class="topinfo center alert alert-warning"><b>Please submit tech talk proposals to <a href="mailto:lucy.mendel@rackspace.com">lucy.mendel@rackspace.com</a></b></div>

@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-04-04T21:20:53-07:00</updated>
+ <updated>2012-04-20T11:15:45-07:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -17,7 +17,7 @@
    <link href="http://hacktheplanet.github.com/hackday/2012/05/02/data-visualization-hackday"/>
    <updated>2012-05-02T00:00:00-07:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/05/02/data-visualization-hackday</id>
-   <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack on neat data visualizations at Rackspace's San Francisco office.&lt;/b&gt;&lt;/div&gt;&lt;div class='topinfo center alert alert-warning'&gt;&lt;b&gt;Please submit tech talk proposals to &lt;a href='mailto:lucy.mendel@rackspace.com'&gt;lucy.mendel@rackspace.com&lt;/a&gt;&lt;/b&gt;&lt;/div&gt;
+   <content type="html">&lt;div class='center alert alert-error'&gt;&lt;b&gt;CANCELLED&lt;/b&gt;&lt;/div&gt;&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack on neat data visualizations at Rackspace's San Francisco office.&lt;/b&gt;&lt;/div&gt;&lt;div class='topinfo center alert alert-warning'&gt;&lt;b&gt;Please submit tech talk proposals to &lt;a href='mailto:lucy.mendel@rackspace.com'&gt;lucy.mendel@rackspace.com&lt;/a&gt;&lt;/b&gt;&lt;/div&gt;
 &lt;p&gt;We&amp;#8217;re hanging out in ##gibson on irc.freenode.net&lt;/p&gt;
 
 &lt;h2 id='2_may_2012'&gt;2. May, 2012&lt;/h2&gt;

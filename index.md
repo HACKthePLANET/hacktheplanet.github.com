@@ -43,7 +43,7 @@ We hang out on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:444
     <li>
       <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
       {% if post.title == "Data Visualization Hackday" %}
-        <span class="label label-warning"><a href="http://datavizhackday.eventbrite.com/">register!</a></span>
+        <span class="label label-warning"><a href="http://datavizhackday.eventbrite.com/">Cancelled</a></span>
       {% endif %}
     </li>
   {% endfor %}
