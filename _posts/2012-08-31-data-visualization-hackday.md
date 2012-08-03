@@ -19,14 +19,18 @@ Hack all day, or come watch the demos and hang out afterwards. Brought to you by
   <thead></thead>
   <tbody>
   <tr><td>9.00 <span class="light">am</span></td><td>Start Hacking</td></tr>
-  <tr><td>11.00  <span class="light">am</span></td><td>Tech Talk tba</td></tr>
-  <tr><td>11.15  <span class="light">am</span></td><td>Tech Talk tba</td></tr>
+  <tr><td>11.00  <span class="light">am</span></td><td>"Creating Reusable Charts and Components" by <a href="http://exposedata.com/">Kai Chang</a></td></tr>
+  <tr><td>11.15  <span class="light">am</span></td><td>Johann Verghese</td></tr>
   <tr><td>6.00  <span class="light">pm</span></td><td>Tech Talk tba</td></tr>
   <tr><td>6.30  <span class="light">pm</span></td><td>Tech Talk tba</td></tr>
   <tr><td>7.00  <span class="light">pm</span></td><td>Demos (prizes sponsored by Rackspace)</td></tr>
   <tr><td>8.00  <span class="light">pm</span></td><td>Move to a local bar</td></tr>
   </tbody>
 </table>
+
+<p><b>Kai Chang</b> is a freelance visualization developer and co-organizer of the Bay
+Area d3 User Group. He's particularly interested in exploratory
+techniques such as parallel coordinates and linked visualizations.</p>
 
 Food, beer and skeeball provided. Bring ideas or find a team.
 
@@ -42,6 +46,7 @@ Food, beer and skeeball provided. Bring ideas or find a team.
 
 <ul>
   <li><a href="http://mbostock.github.com/d3/">d3</a></li>
+  <li><a href="http://processing.org/">processing</a></li>
 </ul>
 
 ## Register

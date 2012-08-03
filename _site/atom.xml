@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-07-19T17:20:55-07:00</updated>
+ <updated>2012-08-02T13:42:33-07:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -27,14 +27,16 @@
   &lt;thead /&gt;
   &lt;tbody&gt;
   &lt;tr&gt;&lt;td&gt;9.00 &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Start Hacking&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;11.00  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk tba&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;11.15  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk tba&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;11.00  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&quot;Creating Reusable Charts and Components&quot; by &lt;a href='http://exposedata.com/'&gt;Kai Chang&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;11.15  &lt;span class='light'&gt;am&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Johann Verghese&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;6.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk tba&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;6.30  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tech Talk tba&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;7.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Demos (prizes sponsored by Rackspace)&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;8.00  &lt;span class='light'&gt;pm&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Move to a local bar&lt;/td&gt;&lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;/table&gt;&lt;p&gt;&lt;b&gt;Kai Chang&lt;/b&gt; is a freelance visualization developer and co-organizer of the Bay
+Area d3 User Group. He's particularly interested in exploratory
+techniques such as parallel coordinates and linked visualizations.&lt;/p&gt;
 &lt;p&gt;Food, beer and skeeball provided. Bring ideas or find a team.&lt;/p&gt;
 
 &lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
@@ -46,6 +48,7 @@
 &lt;h2 id='some_ideas_and_tools'&gt;Some ideas and tools&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href='http://mbostock.github.com/d3/'&gt;d3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href='http://processing.org/'&gt;processing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id='register'&gt;Register&lt;/h2&gt;
 
@@ -59,7 +62,7 @@
    <link href="http://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source-workshop-slides"/>
    <updated>2012-04-05T00:00:00-07:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source-workshop-slides</id>
-   <content type="html">&lt;div class='center alert alert-info'&gt;&lt;a href='/hackday/2012/04/05/how-to-open-source/'&gt;Back to How to Open Source event details&lt;/a&gt;&lt;/div&gt;&lt;iframe mozallowfullscreen='true' src='https://docs.google.com/a/cloudkick.com/presentation/embed?id=1e3VYjf2pii7ILNOMTtpZQt0R56YF2EfMVWg1UG3x-sY&amp;start=false&amp;loop=false&amp;delayms=3000' allowfullscreen='true' frameborder='0' height='749' webkitallowfullscreen='true' width='960' /&gt;</content>
+   <content type="html">&lt;div class='center alert alert-info'&gt;&lt;a href='/hackday/2012/04/05/how-to-open-source/'&gt;Back to How to Open Source event details&lt;/a&gt;&lt;/div&gt;&lt;iframe mozallowfullscreen='true' src='https://docs.google.com/a/cloudkick.com/presentation/embed?id=1e3VYjf2pii7ILNOMTtpZQt0R56YF2EfMVWg1UG3x-sY&amp;start=false&amp;loop=false&amp;delayms=3000' height='749' webkitallowfullscreen='true' frameborder='0' width='960' allowfullscreen='true' /&gt;</content>
  </entry>
  
  <entry>
@@ -318,7 +321,7 @@ Watch videos of the tech talks and demos &lt;a href='http://www.youtube.com/play
 &lt;li&gt;&lt;a href='http://nodejshackday.eventbrite.com/'&gt;Eventbrite&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div style='width:195px; text-align:center;'&gt;
-  &lt;iframe marginheight='0' scrolling='no' allowtransparency='true' src='http://www.eventbrite.com/countdown-widget?eid=2912586625' marginwidth='0' frameborder='0' height='312' width='195'&gt;
+  &lt;iframe src='http://www.eventbrite.com/countdown-widget?eid=2912586625' marginwidth='0' scrolling='no' height='312' frameborder='0' marginheight='0' width='195' allowtransparency='true'&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;&lt;!--
 - [Meetup | Bay Area Software Engineers]( http://www.meetup.com/software/events/51882442/ )
