@@ -11,6 +11,8 @@ Collaborate on hacks inside the [GitHub HackThePlanet organization](https://gith
 
 We hang out on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:4443/%23%23gibson ).
 
+
+
 ## Videos <small>(<a href="/videos.html">All</a>)</small>
 
 <div class="row" style="margin-bottom: 10px;">
@@ -42,7 +44,7 @@ We hang out on irc.freenode.net inside the [##gibson](irc://irc.freenode.net:444
   {% for post in site.posts %}
     <li>
       <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-      {% if post.title == "Data Visualization Hackday" %}
+      {% if post.title == "" %}
         <span class="label label-warning"><a href="http://datavizhackday.eventbrite.com/">Register</a></span>
       {% endif %}
     </li>
@@ -62,6 +64,7 @@ We're looking for:
 Use any of the following mechanisms to communicte:
 
 <ul>
+  <li>Fill out this <a href="http://bit.ly/rssfhack">Form</a>.</li>
   <li>Email <a href="mailto:lucy.mendel@rackspace.com">lucy.mendel@rackspace.com</a>.</li>
   <li>Submit a pull request for a <a href="https://github.com/HackThePlanet/hacktheplanet.github.com/tree/master/_posts">new event</a>.</li>
   <li>Create an <a href="http://github.com/hacktheplanet/hacktheplanet.github.com/issues">issue</a> with ideas, bugs andPP feature requests.</li>

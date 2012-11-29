@@ -4,7 +4,7 @@
  <title>Hack the Planet</title>
  <link href="http://hacktheplanet.github.com/atom.xml" rel="self"/>
  <link href="http://hacktheplanet.github.com"/>
- <updated>2012-08-02T13:42:33-07:00</updated>
+ <updated>2012-09-04T12:20:15-07:00</updated>
  <id>http://hacktheplanet.github.com</id>
  <author>
    <name>Razor and Blade</name>
@@ -17,7 +17,18 @@
    <link href="http://hacktheplanet.github.com/hackday/2012/08/31/data-visualization-hackday"/>
    <updated>2012-08-31T00:00:00-07:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/08/31/data-visualization-hackday</id>
-   <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack on neat data visualizations at Rackspace's San Francisco office.&lt;/b&gt;&lt;/div&gt;&lt;div class='topinfo center alert alert-warning'&gt;&lt;b&gt;Please submit tech talk proposals to &lt;a href='mailto:lucy.mendel@rackspace.com'&gt;lucy.mendel@rackspace.com&lt;/a&gt;&lt;/b&gt;&lt;/div&gt;
+   <content type="html">&lt;p&gt;Kai&amp;#8217;s presentation slides: https://docs.google.com/presentation/d/1asAVLuQtcGXj49_o3jbO31zSz5ZhHi7r0d9ctCmjDIU/edit#slide=id.p&lt;/p&gt;
+
+&lt;p&gt;Johann&amp;#8217;s presentation slides: https://docs.google.com/a/cloudkick.com/presentation/pub?id=1p6MDe90z1_8Ukv8afjPcbSOauecn-N7K-kcpSZUAscU&amp;amp;start=false&amp;amp;loop=false&amp;amp;delayms=3000&lt;/p&gt;
+
+&lt;p&gt;https://github.com/HackThePlanet/d3hack&lt;/p&gt;
+
+&lt;p&gt;https://gist.github.com/3562176/&lt;/p&gt;
+
+&lt;p&gt;https://github.com/HackThePlanet/r2d3-demos&lt;/p&gt;
+
+&lt;p&gt;https://github.com/racker/gutsy/pull/234&lt;/p&gt;
+&lt;div class='topinfo center alert'&gt;&lt;b&gt;Hack on neat data visualizations at Rackspace's San Francisco office.&lt;/b&gt;&lt;/div&gt;&lt;div class='topinfo center alert alert-warning'&gt;&lt;b&gt;Please submit tech talk proposals to &lt;a href='mailto:lucy.mendel@rackspace.com'&gt;lucy.mendel@rackspace.com&lt;/a&gt;&lt;/b&gt;&lt;/div&gt;
 &lt;p&gt;We&amp;#8217;re hanging out in ##gibson on irc.freenode.net&lt;/p&gt;
 
 &lt;h2 id='31_august_2012'&gt;31. August, 2012&lt;/h2&gt;
@@ -62,7 +73,7 @@ techniques such as parallel coordinates and linked visualizations.&lt;/p&gt;
    <link href="http://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source-workshop-slides"/>
    <updated>2012-04-05T00:00:00-07:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source-workshop-slides</id>
-   <content type="html">&lt;div class='center alert alert-info'&gt;&lt;a href='/hackday/2012/04/05/how-to-open-source/'&gt;Back to How to Open Source event details&lt;/a&gt;&lt;/div&gt;&lt;iframe mozallowfullscreen='true' src='https://docs.google.com/a/cloudkick.com/presentation/embed?id=1e3VYjf2pii7ILNOMTtpZQt0R56YF2EfMVWg1UG3x-sY&amp;start=false&amp;loop=false&amp;delayms=3000' height='749' webkitallowfullscreen='true' frameborder='0' width='960' allowfullscreen='true' /&gt;</content>
+   <content type="html">&lt;div class='center alert alert-info'&gt;&lt;a href='/hackday/2012/04/05/how-to-open-source/'&gt;Back to How to Open Source event details&lt;/a&gt;&lt;/div&gt;&lt;iframe webkitallowfullscreen='true' allowfullscreen='true' mozallowfullscreen='true' frameborder='0' height='749' width='960' src='https://docs.google.com/a/cloudkick.com/presentation/embed?id=1e3VYjf2pii7ILNOMTtpZQt0R56YF2EfMVWg1UG3x-sY&amp;start=false&amp;loop=false&amp;delayms=3000' /&gt;</content>
  </entry>
  
  <entry>
@@ -70,7 +81,7 @@ techniques such as parallel coordinates and linked visualizations.&lt;/p&gt;
    <link href="http://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source"/>
    <updated>2012-04-05T00:00:00-07:00</updated>
    <id>hhttp://hacktheplanet.github.com/hackday/2012/04/05/how-to-open-source</id>
-   <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;A hands-on workshp with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; developers on &lt;a href='http://berkeley.edu/'&gt;Berkeley's&lt;/a&gt; campus.&lt;/b&gt;&lt;/div&gt;&lt;div class='center alert alert-info'&gt;&lt;a href='/hackday/2012/04/05/how-to-open-source-workshop-slides/'&gt;Go here to view Workshop Slides&lt;/a&gt;&lt;/div&gt;&lt;img src='/assets/themes/twitter/img/berkeley.jpg' style='margin:auto; display: block;' /&gt;&lt;p style='text-align: center;'&gt;Hosted by &lt;a href='http://hackersatberkeley.com/'&gt;Hack Berkeley&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;div class='topinfo center alert'&gt;&lt;b&gt;A hands-on workshp with &lt;a href='http://rackspace.com'&gt;Rackspace&lt;/a&gt; developers on &lt;a href='http://berkeley.edu/'&gt;Berkeley's&lt;/a&gt; campus.&lt;/b&gt;&lt;/div&gt;&lt;div class='center alert alert-info'&gt;&lt;a href='/hackday/2012/04/05/how-to-open-source-workshop-slides/'&gt;Go here to view Workshop Slides&lt;/a&gt;&lt;/div&gt;&lt;img style='margin:auto; display: block;' src='/assets/themes/twitter/img/berkeley.jpg' /&gt;&lt;p style='text-align: center;'&gt;Hosted by &lt;a href='http://hackersatberkeley.com/'&gt;Hack Berkeley&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id='5_april_2012'&gt;5. April, 2012&lt;/h2&gt;
 &lt;p&gt;How to Open Source: In this workshop we will contribute in real time to a
 widely-used Open Source project while explaining best practices. Attendees
@@ -87,7 +98,7 @@ open source contributors.&lt;/p&gt;&lt;p&gt;Why Open Source?&lt;/p&gt;&lt;ul&gt;
 &lt;/ul&gt;
 --&gt;
 &lt;h2 id='see_you_there'&gt;See you there!&lt;/h2&gt;
-&lt;img src='http://www.eecs.berkeley.edu/Campus/Directions/soda.gif' width='200px' /&gt;&lt;ul class='unstyled'&gt;
+&lt;img width='200px' src='http://www.eecs.berkeley.edu/Campus/Directions/soda.gif' /&gt;&lt;ul class='unstyled'&gt;
   &lt;li&gt;Thursday, 5. April&lt;/li&gt;
   &lt;li&gt;7 - 8:30pm&lt;/li&gt;
   &lt;li&gt;&lt;a href='http://maps.google.com/maps?q=Soda+Hall,+Berkeley,+CA,+United+States'&gt;UC Berkeley Soda Hall&lt;/a&gt;&lt;/li&gt;
@@ -321,7 +332,7 @@ Watch videos of the tech talks and demos &lt;a href='http://www.youtube.com/play
 &lt;li&gt;&lt;a href='http://nodejshackday.eventbrite.com/'&gt;Eventbrite&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div style='width:195px; text-align:center;'&gt;
-  &lt;iframe src='http://www.eventbrite.com/countdown-widget?eid=2912586625' marginwidth='0' scrolling='no' height='312' frameborder='0' marginheight='0' width='195' allowtransparency='true'&gt;
+  &lt;iframe marginheight='0' frameborder='0' height='312' marginwidth='0' allowtransparency='true' width='195' scrolling='no' src='http://www.eventbrite.com/countdown-widget?eid=2912586625'&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;&lt;!--
 - [Meetup | Bay Area Software Engineers]( http://www.meetup.com/software/events/51882442/ )

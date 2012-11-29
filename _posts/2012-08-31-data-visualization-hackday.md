@@ -5,6 +5,19 @@ tags : [data visualization, rackspace, sf, javascript, jquery, processing, java,
 ---
 {% include JB/setup %}
 
+Kai's presentation slides: https://docs.google.com/presentation/d/1asAVLuQtcGXj49_o3jbO31zSz5ZhHi7r0d9ctCmjDIU/edit#slide=id.p
+
+Johann's presentation slides: https://docs.google.com/a/cloudkick.com/presentation/pub?id=1p6MDe90z1_8Ukv8afjPcbSOauecn-N7K-kcpSZUAscU&start=false&loop=false&delayms=3000
+
+
+https://github.com/HackThePlanet/d3hack
+
+https://gist.github.com/3562176/
+
+https://github.com/HackThePlanet/r2d3-demos
+
+https://github.com/racker/gutsy/pull/234
+
 <div class="topinfo center alert"><b>Hack on neat data visualizations at Rackspace's San Francisco office.</b></div>
 
 <div class="topinfo center alert alert-warning"><b>Please submit tech talk proposals to <a href="mailto:lucy.mendel@rackspace.com">lucy.mendel@rackspace.com</a></b></div>
